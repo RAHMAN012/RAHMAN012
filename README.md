@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there 👋. I am currently learning about the cloud and fintech infrastructure.
+## I am currently at the networking phase of roadmap, and i will be updating my profile as my progress continues.
 
 <!--
 **RAHMAN012/RAHMAN012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
